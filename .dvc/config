@@ -1,3 +1,7 @@
+[core]
+    remote = s3http
 ['remote "s3"']
     url = s3://elguitar-trumpetbucket/
     region = eu-central-1
+['remote "s3http"']
+    url = https://elguitar-trumpetbucket.s3.amazonaws.com/
