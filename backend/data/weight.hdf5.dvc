@@ -1,0 +1,3 @@
+outs:
+- md5: 8843765b6f068ad67a63860c48c1fb8f
+  path: weight.hdf5

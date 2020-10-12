@@ -1,0 +1,3 @@
+outs:
+- md5: 8bc76435e1edffbdda8cf96dc6c4058e
+  path: chars.pickle
