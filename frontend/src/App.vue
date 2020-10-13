@@ -23,7 +23,7 @@
       <button :disabled="isDisabled" v-on:click="generateMoreText">Generate more text!</button>
     </div>
     <div id="about">
-    <p>This site is created by Petri Salminen. Source available: LINKHERE</p>
+    <p>This site is created by Petri Salminen. Source available at <a href="https://github.com/elguitar/Trumpet">github.</a></p>
     </div>
   </div>
 </template>
